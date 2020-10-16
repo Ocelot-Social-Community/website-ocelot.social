@@ -1,0 +1,10 @@
+{
+  "title": "ocelot.social website",
+  "url": "ocelot.social",
+  "logo": {
+    "light": "/logo-light2.svg",
+    "dark": "/logo-dark2.svg"
+  },
+  "github": "busFaktor() e.V.",
+  "twitter": "@nuxt_js"
+}
