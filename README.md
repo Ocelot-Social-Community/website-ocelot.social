@@ -1,5 +1,7 @@
 # ocelot.social
 
+![noun_Ocelot_placeholder3](https://user-images.githubusercontent.com/1324583/96329992-2b045900-1052-11eb-889a-9dc7f791f64b.png)
+
 ## Setup
 
 Install dependencies:
