@@ -27,3 +27,6 @@ npm run generate
 To preview the static generated app, run `npm run start`
 
 For detailed explanation on how things work, checkout [nuxt/content](https://content.nuxtjs.org) and [@nuxt/content theme docs](https://content.nuxtjs.org/themes-docs).
+
+
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/1324583/96330115-00ff6680-1053-11eb-9aa3-4cc1e831e354.gif)
