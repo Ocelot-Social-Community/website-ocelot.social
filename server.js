@@ -5,4 +5,4 @@ app = express();
 app.use(serveStatic(path.join(__dirname, 'dist')));
 const port = process.env.PORT || 3000;
 app.listen(port);
-console.log("Runnig on:", "http://localhost:" + port)
+console.log("Runnig on Port 3000:", "http://localhost:" + port)
