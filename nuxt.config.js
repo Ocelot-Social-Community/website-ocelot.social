@@ -5,7 +5,4 @@ export default theme({
     primaryColor: '#E24F55'
   },
   loading: { color: '#00CD81' },
-  content: {
-    liveEdit: false
-  }
 })
