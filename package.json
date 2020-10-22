@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.7.1",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.15.4"
   },
   "devDependencies": {
     "express": "^4.17.1",
