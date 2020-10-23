@@ -29,7 +29,7 @@ features2:
 
 ## Responsible / Publisher
 
-the [**busFaktor e.V.**](https://busfaktor.org)  takes care of the maintenance and further development of the open source code. 
+The [**busFaktor e.V.**](https://busfaktor.org)  takes care of the maintenance and further development of the open source code. 
 
 ## Technical data
 
