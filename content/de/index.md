@@ -4,16 +4,34 @@ description: ''
 position: 0
 category: ''
 features1:
-   - VueJS
-   - NuxtJS
+   - Node
+   - Vue
+   - Nuxt
    - GraphQL
-   - NodeJS
    - Neo4J
+   - Jest
    - Cypress
 features2:
-  - Feature 4
-  - Feature 5
-  - Feature 6
+  - Code Testen
+  - Dokumentation
+  - Styleguid
+  - Mehrsprachig
+  - activityPub
+features3:
+  - User - Registrierung
+  - User - Profil
+  - User - Neuen Beitrag schreiben
+  - User - kann anderen Users folgen
+  - User - kann einen User auf eine seine Blacklist setzen
+  - User - kann einen User für sich sperren
+  - User - kann einen Beitrag melden
+  - User - kann Beiträge kommentieren*
+  - beitrag - Kopfbild
+  - beitrag - editierbarer Text
+  - beitrag - einbetten von Drittanbietern
+  - beitrag - Hashtags
+  - beitrag - eine, bis zu drei Kategorien wählbar
+  - beitrag - Sprache wählen
 ---
 
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
@@ -26,19 +44,21 @@ features2:
 **OCELOT.social** ist ein sociales Netzwerk. Der Code ist **Open Source**.
 
 </alert>
+  
 
-## Verantwortlich / Herrausgeber
-
-Der [**busFaktor e.V.**](https://busfaktor.org) kümmert sich um die pflege und die weiterentwicklung des Open Source Codes. 
-
-## Technische Daten
+## Tools
 
 <list :items="features1"></list>
 
  
 
-## Netzwerk Features
+## Developer Features
 
 <list :items="features2"></list>
+
+
+## Netzwerk Features
+
+<list :items="features3"></list>
 
  
