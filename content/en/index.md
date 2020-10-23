@@ -19,7 +19,7 @@ features2:
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+ 
 
 <alert type="success">
 

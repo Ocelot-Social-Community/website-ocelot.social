@@ -20,5 +20,8 @@ export default theme({
       name: 'English'
     }],
     defaultLocale: 'de'
+  },
+  content: {
+    liveEdit: false
   }
 })
