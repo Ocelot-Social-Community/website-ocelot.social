@@ -1,10 +1,10 @@
 {
   "title": "ocelot.social website",
-  "url": "ocelot.social",
+  "url": "https://github.com/Ocelot-Social-Community/Ocelot-Social",
   "logo": {
     "light": "/logo-light2.svg",
     "dark": "/logo-dark2.svg"
   },
-  "github": "busFaktor() e.V.",
-  "twitter": "@nuxt_js"
+  "github": "Ocelot-Social-Community/Ocelot-Social",
+  "twitter": ""
 }

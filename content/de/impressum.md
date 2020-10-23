@@ -1,7 +1,7 @@
 ---
-title: Manifesto
+title: Impressum
 description: ''
-position: 1
+position: 2
 category: ''
  
 ---

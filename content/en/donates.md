@@ -1,13 +1,14 @@
 ---
-title: Unterstützen
+title: Support
 description: ''
 position: 5
-category: 'Spenden'
+category: 'Donations'
 ---
  
- ## Spenden
- ### paypal
+## Donate
 
- ### konto
- 
- ### sachspenden
+### paypal
+
+### account
+
+### donations in kind

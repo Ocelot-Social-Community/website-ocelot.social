@@ -20,25 +20,25 @@ features2:
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
 
+
 <alert type="success">
 
-**OCELOT.social** is a sociales Network. The Code is **Open Source**.
+**OCELOT.social** ist ein sociales Netzwerk. Der Code ist **Open Source**.
 
 </alert>
 
-## Responsible / Publisher
+## Verantwortlich / Herrausgeber
 
-The [**busFaktor e.V.**](https://busfaktor.org) takes care of the maintenance and further development of the open source code. 
+Der [**busFaktor e.V.**](https://busfaktor.org) kümmert sich um die pflege und die weiterentwicklung des Open Source Codes. 
 
-
-## Technical data
+## Technische Daten
 
 <list :items="features1"></list>
 
  
 
-## Network Features
+## Netzwerk Features
 
 <list :items="features2"></list>
- 
+
  
