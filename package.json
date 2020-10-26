@@ -9,7 +9,6 @@
     "generate": "nuxt generate",
     "postinstall": "npm run build",
     "start": "node server.js"
-
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.7.1",

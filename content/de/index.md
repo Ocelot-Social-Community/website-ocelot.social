@@ -1,64 +1,113 @@
 ---
-title: OCELOT
+title: Ocelot.Social
 description: ''
 position: 0
 category: ''
-features1:
-   - Node
-   - Vue
-   - Nuxt
-   - GraphQL
-   - Neo4J
-   - Jest
-   - Cypress
-features2:
-  - Code Testen
-  - Dokumentation
-  - Styleguid
-  - Mehrsprachig
-  - activityPub
-features3:
-  - User - Registrierung
-  - User - Profil
-  - User - Neuen Beitrag schreiben
-  - User - kann anderen Users folgen
-  - User - kann einen User auf eine seine Blacklist setzen
-  - User - kann einen User für sich sperren
-  - User - kann einen Beitrag melden
-  - User - kann Beiträge kommentieren*
-  - beitrag - Kopfbild
-  - beitrag - editierbarer Text
-  - beitrag - einbetten von Drittanbietern
-  - beitrag - Hashtags
-  - beitrag - eine, bis zu drei Kategorien wählbar
-  - beitrag - Sprache wählen
 ---
 
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
+**Ocelot.Social** ist ein *open-source Programm-Code*, der frei zum Betrieb von sozialen Netzwerken verfügbar ist.
+Seine Entwicklung wird von einer Community aus Programmierern und interessierten Netzwerkbetreibern getragen.
 
+Unser Anliegen ist möglichst vielen Menschen die Teilhabe an sozialen online Netzwerken chancengerecht zu ermöglichen.
+Die Chancengerechtigkeit gilt sowohl in Bezug auf die prinzipielle Gleichheit aller Menschen, als auch für die Möglichkeit, deren vielfältige Stimmen zu wort kommen zu lassen.
 
-<alert type="success">
+Deshalb sehen wir es als wünschenswert an, dass möglichst viele Netzwerkbetreiber das Netzwerken anbieten, damit die Menschen sich aussuchen können, unter welchen Vorzeichen und welcher Kultur der Moderation sie im Netzwerk unterwegs sein wollen.
 
-**OCELOT.social** ist ein sociales Netzwerk. Der Code ist **Open Source**.
+Gleichzeitig soll es in Zukunft möglich werden, diese Netzwerke miteinander zu verbinden, dass jeder Nutzer sich auch mit den Menschen anderer Netzwerke verbinden kann. Sei es zum Beispiel durch Befreunden oder dadurch, den Beiträgen der Nutzer anderer Netzwerke zu folgen.
 
-</alert>
+Es geht uns also um ein *Netzwerk von Netzwerken* und darum, dass die Daten möglichst nahe am Benutzer und dem Betreiber seines Vertrauens verbleiben.
   
+## Netzwerk Funktionen
 
-## Tools
+### Benutzer
 
-<list :items="features1"></list>
+- Registrierung
+- Profil
+- neuen Beitrag schreiben
+- Folgen anderer Benutzer
+- andere Benutzer sperren
+- andere Benutzer stummschalten
+- neue Benutzer einladen
+- einen Benutzer, Beitrag oder Kommentar melden
+  - mit Begründung
+- Rollen
+  - Administrator
+  - Moderator
+  - Benutzer
 
- 
+### Beitrag (Post)
 
-## Developer Features
+- Beitragsbild
+- Umfangreicher Editor mit
+  - Überschriften und anderen Stilen
+  - eingebetteten Links von Drittanbietern
+  - Listen
+  - Erwähnungen
+  - Hashtags
+- Kategorien
+- Sprache des Beitrags wählen
+- Beitrag kommentieren
 
-<list :items="features2"></list>
+### Kommentare
 
+- Umfangreicher Editor mit allen Funktionen des Beitrags bis auf
+  - Hashtags
 
-## Netzwerk Features
+### Ansicht
 
-<list :items="features3"></list>
+- Nachrichtenliste (Newsfeed)
 
- 
+### Moderation
+
+Benutzer mit den Rollen Administrator und Moderator können moderieren:
+
+- Liste gemeldeter Benutzer, Beiträge, Kommentare
+  - mit Begründung
+- Benutzer, Beträge oder Kommentare unsichtbar machen
+- abschließende Entscheidung festsetzen
+
+### Administration
+
+Benutzer der Rolle Administrator können administrieren:
+
+- Beitrag in Nachrichtenliste (Newsfeed) oben anpinnen
+- ist Moderator
+- Statistiken einsehen
+- Benutzer daten einsehen
+- Benutzer löschen
+
+## Geplante Funktionen
+
+Dies ist ein Beginn der Auflistung …  
+… es sind viele mehr geplant.
+
+### Netzwerk von Netzwerken
+
+- Netzwerke verbinden mit **activityPub** [(activityPub auf Wikipedia)](https://de.wikipedia.org/wiki/ActivityPub)
+  - auch genannt **Fediverse** [(Fediverse auf Wikipedia)](https://de.wikipedia.org/wiki/Fediverse)
+
+### Benutzerinteraktionen
+
+- einsehbare Diskussion zwischen zwei Benutzern – **Let's Talk**
+  - eine Alternative zu Kommentaren
+  - kann durch einen Kommentar angeregt sein
+- Chat
+  - Eins-zu-Eins-Chat
+  - Gruppen-Chat
+
+### Beitragstypen
+
+- Video-Beitrag (Video Post)
+  - eine Liste von Links zu einem Video gleichen Inhalts
+  - gibt eine Reihenfolge vor, in der das Video abgefragt wird
+  - existiert es auf einer Plattform nicht mehr, wird der nächte Link probiert
+  - als letzte Möglichkeiten ist [livepeer.org](livepeer.org) bzw. [livepeer.com](livepeer.com) geplant
+  - ggf. noch InterPlanetary File System [(IPSF auf Wikipedia)](https://de.wikipedia.org/wiki/InterPlanetary_File_System)
+
+### Ansichten
+
+- Video-Ansicht
+  - zeigt nur Video- Beiträge, ähnlich anderer Video-Plattformen
