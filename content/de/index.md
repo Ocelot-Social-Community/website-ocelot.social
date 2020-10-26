@@ -8,17 +8,17 @@ category: ''
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-**Ocelot.Social** ist ein *open-source Programm-Code*, der frei zum Betrieb von sozialen Netzwerken verfügbar ist.
+**Ocelot.Social** ist ein *Open-Source-Programm-Code*, der frei zum Betrieb von sozialen Netzwerken verfügbar ist.
 Seine Entwicklung wird von einer Community aus Programmierern und interessierten Netzwerkbetreibern getragen.
 
-Unser Anliegen ist möglichst vielen Menschen die Teilhabe an sozialen online Netzwerken chancengerecht zu ermöglichen.
-Die Chancengerechtigkeit gilt sowohl in Bezug auf die prinzipielle Gleichheit aller Menschen, als auch für die Möglichkeit, deren vielfältige Stimmen zu wort kommen zu lassen.
+Unser Anliegen ist möglichst vielen Menschen die Teilhabe an sozialen Online-Netzwerken chancengerecht zu ermöglichen.
+Die Chancengerechtigkeit gilt sowohl in Bezug auf die prinzipielle Gleichheit aller Menschen, als auch für die Möglichkeit, deren vielfältige Stimmen zu Wort kommen zu lassen.
 
-Deshalb sehen wir es als wünschenswert an, dass möglichst viele Netzwerkbetreiber das Netzwerken anbieten, damit die Menschen sich aussuchen können, unter welchen Vorzeichen und welcher Kultur der Moderation sie im Netzwerk unterwegs sein wollen.
+Deshalb sehen wir es als wünschenswert an, dass möglichst eine Vielfalt von Betreiber solche Netzwerke anbieten, damit sich die Menschen aussuchen können, wo sie unterwegs sein wollen.
 
-Gleichzeitig soll es in Zukunft möglich werden, diese Netzwerke miteinander zu verbinden, dass jeder Nutzer sich auch mit den Menschen anderer Netzwerke verbinden kann. Sei es zum Beispiel durch Befreunden oder dadurch, den Beiträgen der Nutzer anderer Netzwerke zu folgen.
+Gleichzeitig soll es in Zukunft möglich sein, diese Netzwerke miteinander zu verknüpfen ([Fediverse](#netzwerk-von-netzwerken)), sodass sich Nutzer auch mit den Menschen anderer Netzwerke verbinden können – zum Beispiel durch Befreunden oder dem Folgen von Beiträgen.
 
-Es geht uns also um ein *Netzwerk von Netzwerken* und darum, dass die Daten möglichst nahe am Benutzer und dem Betreiber seines Vertrauens verbleiben.
+Es geht uns also um ein *Netzwerk von Netzwerken* und darum, dass die Daten möglichst nahe am Nutzer und dem Betreiber seines Vertrauens bleiben.
   
 ## Netzwerk Funktionen
 
