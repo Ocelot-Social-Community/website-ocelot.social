@@ -1,8 +1,8 @@
 ---
 title: Imprint
 description: ''
-position: 2
-category: ''
+position: 8
+category: 'Organisation'
  
 ---
  
@@ -35,4 +35,9 @@ A visit to our website can result in the storage on our server of information ab
 We would like to expressly point out that the transmission of data via the Internet (e.g., by e-mail) can offer security vulnerabilities. It is therefore impossible to safeguard the data completely against access by third parties. We cannot assume any liability for damages arising as a result of such security vulnerabilities.
 
 The use by third parties of all published contact details for the purpose of advertising is expressly excluded. We reserve the right to take legal steps in the case of the unsolicited sending of advertising information; e.g., by means of spam mail.
- 
+
+### Thanks
+
+Many thanks to Amelia Wattenberger who created the base graphic of our Ocelot.Social logo.
+
+> Ocelot by Amelia Wattenberger from the Noun Project

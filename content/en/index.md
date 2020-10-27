@@ -8,17 +8,24 @@ category: ''
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-**Ocelot.Social** is *open-source program code* that is freely available for running social networks.
+**Ocelot.Social** is *open-source program code* that is freely available to run social networks.
 Its development is supported by a community of programmers and interested network operators.
 
-Our goal is to enable as many people as possible to participate in equality in online social networks.
+Our goal is to enable as many people as possible to participate fairly and equally in online social networks.
 The equality of opportunity applies both to the fundamental equality of all people and to the possibility of letting their diverse voices be heard.
 
-Therefore we see it as desirable that as many network operators as possible offer networking, so that people can choose under which signs and which culture of moderation they want to be in the network.
+We therefore consider it desirable that as many operators as possible offer such networks so that people can choose where they want to be on the move.
 
-At the same time, it should be possible in the future to connect these networks with each other so that every user can also connect with people from other networks. For example, by making friends or by following the contributions of users of other networks.
+At the same time, it should be possible in the future to link these networks with each other ([Fediverse](#netzwerk-von-netzwerken)), so that users can also connect with people from other networks - for example by making friends or following posts or other contributions.
 
-So we are concerned in a *network of networks* and in keeping the data as close as possible to the user and to the operator of their trust.
+In other words, we are interested in a *network of networks* and in keeping the data as close as possible to the user and the operator they trusts.
+
+## Contact
+
+If you are interested as future network operator or user, please get in contact with us:
+
+*Wolfgang Huß*  
+wolle.huss@pjannto.com
 
 ## Network features
 

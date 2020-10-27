@@ -1,7 +1,7 @@
 ---
 title: Spenden
 description: ''
-position: 1
+position: 2
 category: 'Unterstützung'
 ---
 

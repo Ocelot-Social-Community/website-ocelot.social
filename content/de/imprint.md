@@ -1,8 +1,8 @@
 ---
 title: Impressum
 description: ''
-position: 2
-category: ''
+position: 8
+category: 'Organisation'
  
 ---
 
@@ -39,3 +39,9 @@ Der Anbieter weist darauf hin, dass die Übertragung von Daten im Internet (z. B
 
 Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdrücklich widersprochen. Es sei denn, der Anbieter hat zuvor seine schriftliche Einwilligung erteilt.
 Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zusendung von Werbeinformationen, z. B. durch Spam-Mails, vor.
+
+### Dank
+
+Vielen Dank an Amelia Wattenberger, die die Grundlage des Ocelot.Social Logos kreiert hat.
+
+> Ocelot by Amelia Wattenberger from the Noun Project

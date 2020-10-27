@@ -20,6 +20,13 @@ Gleichzeitig soll es in Zukunft möglich sein, diese Netzwerke miteinander zu ve
 
 Es geht uns also um ein *Netzwerk von Netzwerken* und darum, dass die Daten möglichst nahe am Nutzer und dem Betreiber seines Vertrauens bleiben.
   
+## Kontakt
+
+Wenn Interesse als zukünftiger Netzwerkbetreiber oder Nutzer besteht, nehme bitte Kontakt mit uns auf:
+
+*Wolfgang Huß*  
+wolle.huss@pjannto.com
+
 ## Netzwerk Funktionen
 
 ### Benutzer
@@ -110,4 +117,4 @@ Dies ist ein Beginn der Auflistung …
 ### Ansichten
 
 - Video-Ansicht
-  - zeigt nur Video- Beiträge, ähnlich anderer Video-Plattformen
+  - zeigt nur Video-Beiträge, ähnlich anderer Video-Plattformen
