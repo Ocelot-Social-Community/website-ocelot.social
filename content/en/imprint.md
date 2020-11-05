@@ -12,7 +12,7 @@ category: 'Organisation'
 Steinburger Straße 38  
 22527 Hamburg, Germany  
 
-wolle.huss@pjannto.com
+hello@ocelot.social
 
 ### Limitation of liability for internal content
 
@@ -38,6 +38,6 @@ The use by third parties of all published contact details for the purpose of adv
 
 ### Thanks
 
-Many thanks to Amelia Wattenberger who created the base graphic of our Ocelot.Social logo.
+Many thanks to Amelia Wattenberger who created the base graphic of our ocelot.social logo.
 
 > Ocelot by Amelia Wattenberger from the Noun Project

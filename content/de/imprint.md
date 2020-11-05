@@ -12,7 +12,7 @@ category: 'Organisation'
 Steinburger Straße 38  
 22527 Hamburg  
 
-wolle.huss@pjannto.com
+hello@ocelot.social
 
 ### Haftungsbeschränkung
 
@@ -42,6 +42,6 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
 
 ### Dank
 
-Vielen Dank an Amelia Wattenberger, die die Grundlage des Ocelot.Social Logos kreiert hat.
+Vielen Dank an Amelia Wattenberger, die die Grundlage des ocelot.social Logos kreiert hat.
 
 > Ocelot by Amelia Wattenberger from the Noun Project

@@ -1,14 +1,14 @@
 ---
-title: Ocelot.Social
+title: ocelot.social
 description: ''
 position: 0
 category: ''
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+<img src="/ocelot.social-Logo-Text-v01c-1280x640.svg" alt="ocelot.social logo" class="light-img" width="100%" height="auto"/>
+<img src="/ocelot.social-Logo-Text-v01c-1280x640.svg" alt="ocelot.social logo" class="dark-img" width="100%" height="auto"/>
 
-**Ocelot.Social** ist ein *Open-Source-Programm-Code*, der frei zum Betrieb von sozialen Netzwerken verfügbar ist.
+**ocelot.social** ist ein *Open-Source-Programm-Code*, der frei zum Betrieb von sozialen Netzwerken verfügbar ist.
 Seine Entwicklung wird von einer Community aus Programmierern und interessierten Netzwerkbetreibern getragen.
 
 Unser Anliegen ist möglichst vielen Menschen die Teilhabe an sozialen Online-Netzwerken chancengerecht zu ermöglichen.
@@ -25,7 +25,7 @@ Es geht uns also um ein *Netzwerk von Netzwerken* und darum, dass die Daten mög
 Wenn Interesse als zukünftiger Netzwerkbetreiber oder Nutzer besteht, nehme bitte Kontakt mit uns auf:
 
 *Wolfgang Huß*  
-wolle.huss@pjannto.com
+hello@ocelot.social
 
 ## Netzwerk Funktionen
 
