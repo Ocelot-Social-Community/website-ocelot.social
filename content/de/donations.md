@@ -9,6 +9,6 @@ Das Projekt wird unterstützt vom Entwicklerverein [busFaktor() e.V.](https://ww
 
 So könnt ihr das Projekt mit [Spenden](https://www.busfaktor.org/de/spenden) an den busFaktor() e.V. unterstützen, mit dem Stichwort:
 
-- *Ocelot.Social*
+- *ocelot.social*
 
 Vielen Dank dafür! ❤️
