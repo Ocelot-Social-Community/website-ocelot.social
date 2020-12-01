@@ -6,6 +6,7 @@ category: ''
  
 ---
 
- > We want to develop the european way of doing Internet. Free, opensource, transparent, donation funded, collaboratively, decentralized, adaptive, peaceful & fulfilling.
-We started with a social Network to promote this idea and allow everyone to participate in this process.
+> We want to develop a new way of doing internet: free, opensource, transparent, donation funded, collaboratively, decentralized, adaptive, peaceful and fulfilling.
+
+We start with a social network to promote this idea and allow everyone to participate in this process.
 
